@@ -1,0 +1,25 @@
+{
+    "name": "Stacey Byrd",
+    "age": 31,
+    "address": {
+        "street": "Alan Square",
+        "city": "New Thomas",
+        "state": "North Carolina",
+        "zip": "85558"
+    },
+    "contact": {
+        "phone": "(900)534-3315",
+        "servicePhone": "800977368"
+    },
+    "birthday": "1994-14-12",
+    "ip": "124.134.6.110",
+    "foo": "bar",
+    "profile": {
+        "about": "Civil with dark of their certain source yeah. Will dark difference enough Mr.\nEnough boy fall eye until ability last. Should training clear seat. Someone what resource senior.",
+        "bio": "Indicate star keep avoid. Often American nor from idea law method. Drug check opportunity."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
