@@ -1,0 +1,25 @@
+{
+    "name": "Kelsey Blevins",
+    "age": 113,
+    "address": {
+        "street": "Amanda Ridge",
+        "city": "South Johnbury",
+        "state": "Wyoming",
+        "zip": "41302"
+    },
+    "contact": {
+        "phone": "001-208-682-1610x5026",
+        "servicePhone": "800488458"
+    },
+    "birthday": "1912-02-12",
+    "ip": "37.43.203.76",
+    "foo": "bar",
+    "profile": {
+        "about": "Ready dog tend health record director example various. Guess field decade simply late response attack.\nSomething yes arm wait garden. Build professor environmental operation send talk weight.",
+        "bio": "Quite his amount. Call cup remember quite assume statement example. Other boy imagine officer.\nEnergy to brother include. Too because structure stage."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
