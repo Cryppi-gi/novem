@@ -1,0 +1,25 @@
+{
+    "name": "Tom Baker",
+    "age": 87,
+    "address": {
+        "street": "Stephanie Tunnel",
+        "city": "West Dawn",
+        "state": "Wyoming",
+        "zip": "00609"
+    },
+    "contact": {
+        "phone": "4419295400",
+        "servicePhone": "800050803"
+    },
+    "birthday": "1938-01-08",
+    "ip": "217.52.139.58",
+    "foo": "bar",
+    "profile": {
+        "about": "Morning coach establish lot character popular. I bad guess often movement although. Meeting gas spring right.\nNews hear story manage four.",
+        "bio": "Wonder candidate professional world data. Media daughter reason challenge try either fill. Get find avoid open generation life."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}
