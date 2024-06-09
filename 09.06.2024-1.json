@@ -1,0 +1,25 @@
+{
+    "name": "Denise Walker",
+    "age": 16,
+    "address": {
+        "street": "Romero Heights",
+        "city": "Mcguireberg",
+        "state": "North Carolina",
+        "zip": "71554"
+    },
+    "contact": {
+        "phone": "001-571-655-7927x46172",
+        "servicePhone": "800142593"
+    },
+    "birthday": "2009-16-07",
+    "ip": "206.180.136.193",
+    "foo": "bar",
+    "profile": {
+        "about": "Business democratic service civil choice move town. Daughter I seek position point bank. Chance it style father window low.",
+        "bio": "Others affect anything set finish however. Foot accept important lead. Head successful student something each huge eight. May note reveal course."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}
