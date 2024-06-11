@@ -1,0 +1,25 @@
+{
+    "name": "Tyrone Harris",
+    "age": 65,
+    "address": {
+        "street": "Christopher Motorway",
+        "city": "Fisherton",
+        "state": "Tennessee",
+        "zip": "91244"
+    },
+    "contact": {
+        "phone": "735-683-2542",
+        "servicePhone": "800162865"
+    },
+    "birthday": "1960-01-09",
+    "ip": "129.252.99.26",
+    "foo": "bar",
+    "profile": {
+        "about": "Trip health body. Discussion yes vote interesting decide. Matter score particular seek.\nBut commercial fill with way pattern. Wonder around poor. Environment baby seem.",
+        "bio": "Light interview commercial deep chance term have environment. As choice they important both ago."
+    },
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}
