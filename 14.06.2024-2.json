@@ -1,0 +1,25 @@
+{
+    "name": "Robert Solis",
+    "age": 69,
+    "address": {
+        "street": "Arthur Row",
+        "city": "North Vincent",
+        "state": "Kentucky",
+        "zip": "77508"
+    },
+    "contact": {
+        "phone": "812-697-2495x62075",
+        "servicePhone": "800344258"
+    },
+    "birthday": "1956-17-06",
+    "ip": "206.1.15.206",
+    "foo": "bar",
+    "profile": {
+        "about": "Magazine entire around provide half. Me nor strategy film guess agree economic head.\nQuality commercial laugh position. Make choice word four thank from. Color collection collection.",
+        "bio": "Republican western management whatever room measure. Usually this may from.\nReally toward relate discover each ahead. Market local issue several behavior you. Scientist your million particularly."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}
