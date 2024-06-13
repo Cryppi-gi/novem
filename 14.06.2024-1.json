@@ -1,0 +1,25 @@
+{
+    "name": "Peggy Carey",
+    "age": 15,
+    "address": {
+        "street": "Lucero Mall",
+        "city": "Reidfurt",
+        "state": "New York",
+        "zip": "24204"
+    },
+    "contact": {
+        "phone": "+1-694-991-8206x775",
+        "servicePhone": "800844685"
+    },
+    "birthday": "2010-20-03",
+    "ip": "143.111.107.1",
+    "foo": "bar",
+    "profile": {
+        "about": "Each rise difficult ten lawyer. Where live pressure age recognize. Any test control doctor.\nMe method agent miss listen conference century.\nNewspaper east out health agent capital.",
+        "bio": "Agency his organization friend. Sport quickly PM turn him. Movement home pressure hour more."
+    },
+    "currency": [
+        "BWP",
+        "Botswana pula"
+    ]
+}
