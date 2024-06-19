@@ -1,0 +1,25 @@
+{
+    "name": "Dustin Brown",
+    "age": 45,
+    "address": {
+        "street": "Matthew Center",
+        "city": "Port Robertmouth",
+        "state": "Wyoming",
+        "zip": "24006"
+    },
+    "contact": {
+        "phone": "877-345-2595x8391",
+        "servicePhone": "800283469"
+    },
+    "birthday": "1980-12-08",
+    "ip": "211.73.131.90",
+    "foo": "bar",
+    "profile": {
+        "about": "Line avoid person study either also. Yourself business student war him among less.\nIndustry suggest federal soon. Site social perform me think learn.",
+        "bio": "Control he box goal section but. Apply goal her such hope cup. Last from himself.\nFund student value nothing down pressure less. College also ever exactly employee. Source choose building personal."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}
