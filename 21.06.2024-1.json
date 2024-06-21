@@ -1,0 +1,25 @@
+{
+    "name": "Laura Sims MD",
+    "age": 15,
+    "address": {
+        "street": "Gonzalez Spring",
+        "city": "Robinsonmouth",
+        "state": "Nebraska",
+        "zip": "78054"
+    },
+    "contact": {
+        "phone": "(772)973-7092",
+        "servicePhone": "800357117"
+    },
+    "birthday": "2010-31-03",
+    "ip": "79.56.13.95",
+    "foo": "bar",
+    "profile": {
+        "about": "Federal son weight parent. Main evening sometimes resource him wonder.\nDuring stand wind certainly improve. President finally we learn indicate note open. Know every student think consider.",
+        "bio": "He vote where certain movement the. Manage something your forward."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}
