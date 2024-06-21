@@ -1,0 +1,25 @@
+{
+    "name": "Samuel Ryan",
+    "age": 84,
+    "address": {
+        "street": "Drake Fort",
+        "city": "South Daniel",
+        "state": "Mississippi",
+        "zip": "40828"
+    },
+    "contact": {
+        "phone": "910-250-1695",
+        "servicePhone": "800857762"
+    },
+    "birthday": "1941-09-07",
+    "ip": "25.94.166.159",
+    "foo": "bar",
+    "profile": {
+        "about": "Study open raise body behind add. Lead Republican operation knowledge continue growth where.\nImprove large sign edge. Think him soldier attack nearly consumer size.",
+        "bio": "Tonight health catch miss. Stuff recent force another eight company relate. Commercial up behind individual next decision."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
