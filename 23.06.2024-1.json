@@ -1,0 +1,25 @@
+{
+    "name": "Steven Rose",
+    "age": 112,
+    "address": {
+        "street": "Gabriel Shores",
+        "city": "Palmerhaven",
+        "state": "Maryland",
+        "zip": "01040"
+    },
+    "contact": {
+        "phone": "565.945.0255",
+        "servicePhone": "800727314"
+    },
+    "birthday": "1913-15-11",
+    "ip": "167.255.101.21",
+    "foo": "bar",
+    "profile": {
+        "about": "Rock focus tax.\nCharge movie painting know human.\nSkin break present exactly morning. Until become store knowledge develop.\nThree concern small which strong. Evidence final born PM.",
+        "bio": "Law along space skill. Try marriage town start general hospital clear. Realize dream woman us beautiful kitchen."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
