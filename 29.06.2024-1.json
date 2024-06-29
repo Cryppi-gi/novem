@@ -1,0 +1,25 @@
+{
+    "name": "Sheila King",
+    "age": 3,
+    "address": {
+        "street": "Berry Branch",
+        "city": "East Alicia",
+        "state": "Montana",
+        "zip": "27781"
+    },
+    "contact": {
+        "phone": "401-843-0820",
+        "servicePhone": "800905581"
+    },
+    "birthday": "2022-13-10",
+    "ip": "209.12.65.103",
+    "foo": "bar",
+    "profile": {
+        "about": "Every piece traditional spring morning. Threat true add understand police upon. Direction authority agree camera those small use.",
+        "bio": "Training adult fly summer page all. Administration television name provide south hard. Field respond move whatever spend star. Ability student science language suffer."
+    },
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}
