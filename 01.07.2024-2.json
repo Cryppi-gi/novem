@@ -1,0 +1,25 @@
+{
+    "name": "Benjamin Campbell",
+    "age": 50,
+    "address": {
+        "street": "Veronica Track",
+        "city": "Linbury",
+        "state": "Virginia",
+        "zip": "92252"
+    },
+    "contact": {
+        "phone": "+1-379-806-7273x5402",
+        "servicePhone": "800143516"
+    },
+    "birthday": "1975-27-03",
+    "ip": "66.178.79.68",
+    "foo": "bar",
+    "profile": {
+        "about": "Value each look other manager let interest. North budget form want. Performance discuss staff take dog western article.",
+        "bio": "Even skill firm role trip. Soldier home move never accept."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}
