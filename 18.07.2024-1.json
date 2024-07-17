@@ -1,0 +1,25 @@
+{
+    "name": "Scott Adkins",
+    "age": 54,
+    "address": {
+        "street": "Dillon Forges",
+        "city": "Malikstad",
+        "state": "Illinois",
+        "zip": "53704"
+    },
+    "contact": {
+        "phone": "770-217-0679x2573",
+        "servicePhone": "800146288"
+    },
+    "birthday": "1971-29-05",
+    "ip": "186.203.118.150",
+    "foo": "bar",
+    "profile": {
+        "about": "Make red close sure run term. Religious bring large bring reveal strong. Letter teach wish.",
+        "bio": "Once himself whether.\nManage popular kind. Assume benefit cold everything forward whatever future magazine. Beat act feel around.\nDrive take eye six think finally decade. Lot country then."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}
