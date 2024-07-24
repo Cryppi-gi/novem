@@ -1,0 +1,25 @@
+{
+    "name": "David Green",
+    "age": 81,
+    "address": {
+        "street": "Todd Prairie",
+        "city": "South Loganmouth",
+        "state": "Wisconsin",
+        "zip": "17266"
+    },
+    "contact": {
+        "phone": "(217)827-3608x6599",
+        "servicePhone": "800532190"
+    },
+    "birthday": "1944-09-04",
+    "ip": "121.27.144.169",
+    "foo": "bar",
+    "profile": {
+        "about": "Month great politics situation film rich. Need keep tell some five. Sing cost possible information data strategy.",
+        "bio": "White degree feel nearly quality strategy common inside. Room discuss bill amount administration story meet. Effort daughter try music car someone."
+    },
+    "currency": [
+        "BMD",
+        "Bermudian dollar"
+    ]
+}
