@@ -1,0 +1,25 @@
+{
+    "name": "Courtney Martinez",
+    "age": 17,
+    "address": {
+        "street": "Christopher Hill",
+        "city": "West Laurie",
+        "state": "Pennsylvania",
+        "zip": "80092"
+    },
+    "contact": {
+        "phone": "(659)995-5183x265",
+        "servicePhone": "800600377"
+    },
+    "birthday": "2008-28-12",
+    "ip": "54.148.113.45",
+    "foo": "bar",
+    "profile": {
+        "about": "Sometimes large amount action mention race everything. So offer usually lay pattern movement.",
+        "bio": "At road glass could gas other hear plant.\nMiddle control trouble. Score should wall trade PM education near return. Thus glass off current major many section order."
+    },
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}
