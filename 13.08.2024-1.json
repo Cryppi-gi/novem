@@ -1,0 +1,25 @@
+{
+    "name": "Belinda Brown",
+    "age": 103,
+    "address": {
+        "street": "Elizabeth Land",
+        "city": "Jillport",
+        "state": "Oklahoma",
+        "zip": "99537"
+    },
+    "contact": {
+        "phone": "912-230-2209",
+        "servicePhone": "800809560"
+    },
+    "birthday": "1922-23-05",
+    "ip": "50.62.123.31",
+    "foo": "bar",
+    "profile": {
+        "about": "Not within effect none ok language child continue. Particular memory sound cost appear.",
+        "bio": "Structure fast feeling specific claim resource. Success war history against growth eight generation space.\nFloor result medical goal there bar shake. Answer prevent behavior."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
