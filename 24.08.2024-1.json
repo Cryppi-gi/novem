@@ -1,0 +1,25 @@
+{
+    "name": "Brandon Smith",
+    "age": 37,
+    "address": {
+        "street": "Emily Prairie",
+        "city": "North Amy",
+        "state": "Oklahoma",
+        "zip": "63484"
+    },
+    "contact": {
+        "phone": "214-215-0942x706",
+        "servicePhone": "800649035"
+    },
+    "birthday": "1988-27-10",
+    "ip": "215.78.77.100",
+    "foo": "bar",
+    "profile": {
+        "about": "Television attention no claim. Section big fear group service low.\nBox type outside few after almost full life. Case cost everything require young quite. At approach candidate line.",
+        "bio": "Someone reflect meet develop security though. Ability these professor no fund anyone.\nItself head dark fire in soon design. Area Republican if."
+    },
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}
