@@ -1,0 +1,25 @@
+{
+    "name": "Tyler Howell",
+    "age": 68,
+    "address": {
+        "street": "Nathan Wall",
+        "city": "Millerberg",
+        "state": "Delaware",
+        "zip": "20043"
+    },
+    "contact": {
+        "phone": "462.967.8417",
+        "servicePhone": "800213372"
+    },
+    "birthday": "1957-30-06",
+    "ip": "106.193.8.31",
+    "foo": "bar",
+    "profile": {
+        "about": "What behavior method recent already. Discuss agreement health behind.\nMarket forget nature them lawyer. Despite exist year each. Live another lot environment. Force leg gas cultural lot nearly get.",
+        "bio": "Over will step white huge TV. Reduce difficult rock somebody sister anyone court. Red television station ask market week."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}
