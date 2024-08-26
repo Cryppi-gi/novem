@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Jones",
+    "age": 68,
+    "address": {
+        "street": "Andrea Mountain",
+        "city": "Port Jennifer",
+        "state": "Washington",
+        "zip": "23867"
+    },
+    "contact": {
+        "phone": "720-445-5751x73198",
+        "servicePhone": "800346518"
+    },
+    "birthday": "1957-01-10",
+    "ip": "112.179.97.137",
+    "foo": "bar",
+    "profile": {
+        "about": "Attack analysis article including range out teacher. Threat defense again here.\nStyle tell environmental in. Board nation down month gas interesting.",
+        "bio": "Try read resource fire throughout interest stay specific. Responsibility everything fact life notice. Cover black pick information like name evidence. Child capital environment conference walk."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
