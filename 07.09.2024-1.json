@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Roberts",
+    "age": 100,
+    "address": {
+        "street": "Rodney Ville",
+        "city": "East Aaronfurt",
+        "state": "Arizona",
+        "zip": "28416"
+    },
+    "contact": {
+        "phone": "(311)286-3455",
+        "servicePhone": "800600235"
+    },
+    "birthday": "1925-25-08",
+    "ip": "204.72.62.52",
+    "foo": "bar",
+    "profile": {
+        "about": "Remain social painting property line huge animal. Everyone improve in. Too difficult guess join.\nFood conference hit certain. Support goal although fish fight. When stop picture federal ready.",
+        "bio": "Think arrive value threat arrive leave. City evening federal green itself catch exactly.\nPiece relate side before officer. Past despite because guy. True citizen special."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
