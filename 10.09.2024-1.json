@@ -1,0 +1,25 @@
+{
+    "name": "Sandra Roberts",
+    "age": 14,
+    "address": {
+        "street": "Paul Roads",
+        "city": "Robertborough",
+        "state": "Minnesota",
+        "zip": "76861"
+    },
+    "contact": {
+        "phone": "9854144114",
+        "servicePhone": "800491793"
+    },
+    "birthday": "2011-05-07",
+    "ip": "158.254.238.18",
+    "foo": "bar",
+    "profile": {
+        "about": "Just establish sort upon too try work. Fish that since Democrat world. Close pattern wind deal discuss.",
+        "bio": "Gun also growth keep sea fish. Ask TV him page door while generation short.\nBelieve off similar travel start artist edge. Easy page speech these perhaps."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}
