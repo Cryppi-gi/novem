@@ -1,0 +1,25 @@
+{
+    "name": "John Rubio",
+    "age": 34,
+    "address": {
+        "street": "Erica Spur",
+        "city": "Jeffreyland",
+        "state": "Rhode Island",
+        "zip": "76934"
+    },
+    "contact": {
+        "phone": "(679)907-7537x94912",
+        "servicePhone": "800097413"
+    },
+    "birthday": "1991-12-12",
+    "ip": "86.226.241.152",
+    "foo": "bar",
+    "profile": {
+        "about": "Course after international among finally reveal day. Change company large. Thousand public structure white surface exactly real local.",
+        "bio": "Party role trouble special material. Use clear news network seven."
+    },
+    "currency": [
+        "KGS",
+        "Kyrgyzstani som"
+    ]
+}
