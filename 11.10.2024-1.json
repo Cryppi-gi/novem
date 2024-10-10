@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Singleton",
+    "age": 53,
+    "address": {
+        "street": "Lopez Shoal",
+        "city": "Sarahfurt",
+        "state": "Massachusetts",
+        "zip": "68297"
+    },
+    "contact": {
+        "phone": "001-291-398-1063x027",
+        "servicePhone": "800833841"
+    },
+    "birthday": "1972-12-12",
+    "ip": "1.9.39.230",
+    "foo": "bar",
+    "profile": {
+        "about": "Something character instead few support reveal down hold. Attack especially nature technology edge perhaps. Thus can husband federal report big action.",
+        "bio": "Including tend must two western indicate marriage. Benefit if may.\nDecade focus she investment mention. Break learn between huge. Whether ten crime hope page per."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}
