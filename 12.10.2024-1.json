@@ -1,0 +1,25 @@
+{
+    "name": "Kyle Ingram",
+    "age": 61,
+    "address": {
+        "street": "Chen Mission",
+        "city": "Whitechester",
+        "state": "Oklahoma",
+        "zip": "71242"
+    },
+    "contact": {
+        "phone": "856.725.8046x140",
+        "servicePhone": "800807833"
+    },
+    "birthday": "1964-05-05",
+    "ip": "101.159.45.44",
+    "foo": "bar",
+    "profile": {
+        "about": "Plant consumer play red would. Condition compare north. Expert decide audience day name.",
+        "bio": "Level benefit clearly together newspaper. Power respond worker visit state election. Their imagine drive hospital unit answer. Member all machine product treatment represent image."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}
