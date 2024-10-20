@@ -1,0 +1,25 @@
+{
+    "name": "Douglas Mcconnell",
+    "age": 33,
+    "address": {
+        "street": "Richard Bridge",
+        "city": "Phillipmouth",
+        "state": "North Carolina",
+        "zip": "51438"
+    },
+    "contact": {
+        "phone": "+1-600-851-7627x6930",
+        "servicePhone": "800896683"
+    },
+    "birthday": "1992-25-10",
+    "ip": "57.30.154.252",
+    "foo": "bar",
+    "profile": {
+        "about": "Talk whose find like doctor produce although. Arrive really usually positive necessary concern.",
+        "bio": "Take information manage power enter arm. Ball eye reality fire.\nCondition safe nation. Represent crime year win leave picture they."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}
