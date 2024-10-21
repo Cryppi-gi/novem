@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Johnson",
+    "age": 34,
+    "address": {
+        "street": "Carl Mission",
+        "city": "Michaelport",
+        "state": "Connecticut",
+        "zip": "81615"
+    },
+    "contact": {
+        "phone": "+1-497-224-2258x33826",
+        "servicePhone": "800753040"
+    },
+    "birthday": "1991-05-10",
+    "ip": "20.95.15.90",
+    "foo": "bar",
+    "profile": {
+        "about": "Hope speak movie career human. Involve her operation chair peace manage account. Fight successful color.\nWorry home over voice day three simply.",
+        "bio": "Air bill magazine. Ok value can become. Hotel yourself respond purpose toward quickly really.\nImagine alone act development institution."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}
