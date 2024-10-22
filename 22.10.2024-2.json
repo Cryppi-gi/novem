@@ -1,0 +1,25 @@
+{
+    "name": "Gabriel Garcia",
+    "age": 101,
+    "address": {
+        "street": "Diana Pine",
+        "city": "Davidfort",
+        "state": "Pennsylvania",
+        "zip": "63662"
+    },
+    "contact": {
+        "phone": "001-261-573-3733x9654",
+        "servicePhone": "800360709"
+    },
+    "birthday": "1924-11-04",
+    "ip": "193.40.188.42",
+    "foo": "bar",
+    "profile": {
+        "about": "Time cup the sell help statement. Many actually safe old high happy. Site raise system computer how cause include.",
+        "bio": "Local top media site very. Every activity ask think range clear. Reveal to system bill miss state. Win husband entire throw political.\nRun cover executive effort deal pass. Miss sense claim analysis."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
