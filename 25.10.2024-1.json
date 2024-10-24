@@ -1,0 +1,25 @@
+{
+    "name": "Richard Patterson",
+    "age": 52,
+    "address": {
+        "street": "Johnson Stravenue",
+        "city": "North Sarahchester",
+        "state": "West Virginia",
+        "zip": "34361"
+    },
+    "contact": {
+        "phone": "+1-798-892-8308x82529",
+        "servicePhone": "800308146"
+    },
+    "birthday": "1973-28-12",
+    "ip": "60.70.16.95",
+    "foo": "bar",
+    "profile": {
+        "about": "Stuff difficult daughter doctor heavy. Simply during even woman husband including participant.\nDetail miss past.",
+        "bio": "Reach west indeed able yeah reach citizen military. Party matter various mission us industry. Yes chance simply develop former produce."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}
