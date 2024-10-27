@@ -1,0 +1,25 @@
+{
+    "name": "Paige Curtis",
+    "age": 20,
+    "address": {
+        "street": "Monica Streets",
+        "city": "Martinton",
+        "state": "Vermont",
+        "zip": "80573"
+    },
+    "contact": {
+        "phone": "(732)555-0671x315",
+        "servicePhone": "800866981"
+    },
+    "birthday": "2005-14-09",
+    "ip": "45.179.24.134",
+    "foo": "bar",
+    "profile": {
+        "about": "Finally notice sometimes movie do political. Mother night future standard.\nGo leader air federal series behind. Life stand nothing.",
+        "bio": "Firm tough detail hard community political yeah. Step not news media chair state citizen risk. Police beautiful age best chair summer early treat. First social nor summer president since."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
