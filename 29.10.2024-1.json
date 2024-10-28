@@ -1,0 +1,25 @@
+{
+    "name": "Jared Williams",
+    "age": 26,
+    "address": {
+        "street": "Alexander Ports",
+        "city": "South Jonathanbury",
+        "state": "Connecticut",
+        "zip": "84387"
+    },
+    "contact": {
+        "phone": "308-288-5082x44603",
+        "servicePhone": "800740196"
+    },
+    "birthday": "1999-22-05",
+    "ip": "78.249.126.59",
+    "foo": "bar",
+    "profile": {
+        "about": "War stand garden heavy book information technology social. Defense bar how lead deal everything.",
+        "bio": "Outside simple candidate see. Interest scientist skill course positive artist example. See others piece suggest give myself.\nA represent field type. Something very teach no pass."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}
