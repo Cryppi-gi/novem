@@ -1,0 +1,25 @@
+{
+    "name": "Amy Richmond",
+    "age": 62,
+    "address": {
+        "street": "Walsh Estate",
+        "city": "Port Cristina",
+        "state": "Illinois",
+        "zip": "73231"
+    },
+    "contact": {
+        "phone": "(226)258-6178x27030",
+        "servicePhone": "800924025"
+    },
+    "birthday": "1963-26-09",
+    "ip": "100.236.186.237",
+    "foo": "bar",
+    "profile": {
+        "about": "Finally author program matter public herself drive. Deal have support just experience billion. Key network possible significant oil whether identify local.",
+        "bio": "Worker skin bad religious yard wall. Young plant security.\nBrother president who I age home. Lead most food. Office these authority skin father choice."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}
