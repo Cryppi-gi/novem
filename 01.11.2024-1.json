@@ -1,0 +1,25 @@
+{
+    "name": "Kara Elliott",
+    "age": 49,
+    "address": {
+        "street": "Riddle Manors",
+        "city": "Port Devintown",
+        "state": "North Dakota",
+        "zip": "23299"
+    },
+    "contact": {
+        "phone": "+1-849-828-9988x00537",
+        "servicePhone": "800208933"
+    },
+    "birthday": "1976-24-06",
+    "ip": "172.107.157.246",
+    "foo": "bar",
+    "profile": {
+        "about": "Well stuff force begin respond do. Doctor system state in party. Final about experience relationship red central health.",
+        "bio": "Wait car six this life mother. Direction director well material think travel whatever. Central fast public member."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}
