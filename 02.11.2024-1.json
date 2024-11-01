@@ -1,0 +1,25 @@
+{
+    "name": "Kyle Johnson",
+    "age": 16,
+    "address": {
+        "street": "John Squares",
+        "city": "East Davidview",
+        "state": "Alaska",
+        "zip": "90240"
+    },
+    "contact": {
+        "phone": "001-483-445-0015x53390",
+        "servicePhone": "800673829"
+    },
+    "birthday": "2009-28-02",
+    "ip": "223.219.194.36",
+    "foo": "bar",
+    "profile": {
+        "about": "Energy including approach dark prevent. Central yeah loss whether food. Could article inside conference particular mean. Relate new letter his million.\nAny rest visit here. Game price market wear.",
+        "bio": "International ground tree four late guess. Risk level history strong.\nBehind without ten. Room describe Congress station. Left speak detail book heart specific."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
