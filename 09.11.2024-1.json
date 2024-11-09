@@ -1,0 +1,25 @@
+{
+    "name": "Michael Wells",
+    "age": 66,
+    "address": {
+        "street": "Pitts Mountain",
+        "city": "West Brandymouth",
+        "state": "Michigan",
+        "zip": "09531"
+    },
+    "contact": {
+        "phone": "(260)751-5346x169",
+        "servicePhone": "800310756"
+    },
+    "birthday": "1959-17-12",
+    "ip": "3.193.174.92",
+    "foo": "bar",
+    "profile": {
+        "about": "Perhaps himself food week new now film decade. Course science less market. While force full local.\nSouthern citizen best total. Shoulder firm film run city serious.",
+        "bio": "Capital account worry stuff write car usually.\nSurface community door life sort sense. Attorney next job design morning. On a four hundred bag ten rock."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}
