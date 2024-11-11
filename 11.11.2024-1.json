@@ -1,0 +1,25 @@
+{
+    "name": "Nancy Hall",
+    "age": 111,
+    "address": {
+        "street": "Francis Cape",
+        "city": "South Edwardview",
+        "state": "Arizona",
+        "zip": "97630"
+    },
+    "contact": {
+        "phone": "215.784.4510x775",
+        "servicePhone": "800917024"
+    },
+    "birthday": "1914-21-10",
+    "ip": "53.97.247.130",
+    "foo": "bar",
+    "profile": {
+        "about": "Participant place ask. Rule clearly light teacher under.\nHuge father consumer expert.\nSeven decision candidate.\nPrepare change require job evening. Finish cost western else exactly drug.",
+        "bio": "Watch operation building participant unit skin home. Shoulder political especially discover movement."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}
