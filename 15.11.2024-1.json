@@ -1,0 +1,25 @@
+{
+    "name": "Micheal Romero",
+    "age": 62,
+    "address": {
+        "street": "Harris Mill",
+        "city": "South Nicolemouth",
+        "state": "South Dakota",
+        "zip": "22863"
+    },
+    "contact": {
+        "phone": "609-829-3879",
+        "servicePhone": "800397346"
+    },
+    "birthday": "1963-30-11",
+    "ip": "179.8.161.119",
+    "foo": "bar",
+    "profile": {
+        "about": "Ask few business personal. Reflect painting kid despite deal discuss stock health.\nThought big identify single. Standard nice difference explain.",
+        "bio": "Person term practice word must already. Traditional performance past this."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
