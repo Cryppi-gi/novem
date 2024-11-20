@@ -1,0 +1,25 @@
+{
+    "name": "Amber Oliver",
+    "age": 84,
+    "address": {
+        "street": "Bartlett Passage",
+        "city": "New Johnfort",
+        "state": "Maine",
+        "zip": "93259"
+    },
+    "contact": {
+        "phone": "+1-791-929-9523x05029",
+        "servicePhone": "800455203"
+    },
+    "birthday": "1941-23-11",
+    "ip": "100.158.165.78",
+    "foo": "bar",
+    "profile": {
+        "about": "Enough computer gun keep. Study avoid any off save. Debate glass natural window almost soon recognize get.",
+        "bio": "Pay store century woman your. South pull religious family.\nLight firm beat contain join.\nTen sign decide street organization participant. Discover force major Mr when give."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}
