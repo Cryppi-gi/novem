@@ -1,0 +1,25 @@
+{
+    "name": "Carrie Erickson",
+    "age": 2,
+    "address": {
+        "street": "Clay Village",
+        "city": "Port Lorraineshire",
+        "state": "Kentucky",
+        "zip": "01443"
+    },
+    "contact": {
+        "phone": "610-597-2681x8536",
+        "servicePhone": "800228534"
+    },
+    "birthday": "2023-24-06",
+    "ip": "41.90.135.168",
+    "foo": "bar",
+    "profile": {
+        "about": "Government campaign newspaper. Always by there avoid pull partner.\nEvent reason play political analysis doctor. What yet once investment consider.\nLanguage level lay office. By majority part.",
+        "bio": "South artist fish air decade.\nGrowth somebody nothing play away big. Management wall when point each fact.\nGirl charge example address or behavior it. Almost across total billion protect."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
