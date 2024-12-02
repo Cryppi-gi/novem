@@ -1,0 +1,25 @@
+{
+    "name": "Candice Webb",
+    "age": 36,
+    "address": {
+        "street": "Salas Village",
+        "city": "North Stephen",
+        "state": "North Carolina",
+        "zip": "10386"
+    },
+    "contact": {
+        "phone": "+1-965-428-0309x84766",
+        "servicePhone": "800213746"
+    },
+    "birthday": "1989-11-09",
+    "ip": "91.193.229.103",
+    "foo": "bar",
+    "profile": {
+        "about": "Hand media include risk affect north. Oil environment learn guy room may. Data study side human.\nOrder exactly owner something hot table similar. Few create nation hear. Sell evidence answer smile.",
+        "bio": "Reduce writer body product note light. Phone range animal quality provide forward song. Available class state successful lawyer better question."
+    },
+    "currency": [
+        "QAR",
+        "Qatari riyal"
+    ]
+}
