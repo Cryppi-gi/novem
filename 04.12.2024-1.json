@@ -1,0 +1,25 @@
+{
+    "name": "Gabriel Lane",
+    "age": 12,
+    "address": {
+        "street": "Bianca Field",
+        "city": "Port Edwinfort",
+        "state": "South Dakota",
+        "zip": "37387"
+    },
+    "contact": {
+        "phone": "650-675-6657x53365",
+        "servicePhone": "800629833"
+    },
+    "birthday": "2013-11-12",
+    "ip": "139.57.13.54",
+    "foo": "bar",
+    "profile": {
+        "about": "Town policy player write ever national. Skin four current your option writer.\nAttorney structure ok policy add many. House attack before effort method. Factor play head put opportunity.",
+        "bio": "Along line laugh both later. War practice event art.\nClearly yourself set serve game. Each language city cold age dinner especially. Close edge memory."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
