@@ -1,0 +1,25 @@
+{
+    "name": "Richard Mckinney",
+    "age": 4,
+    "address": {
+        "street": "Gutierrez Overpass",
+        "city": "Andersonbury",
+        "state": "Michigan",
+        "zip": "73912"
+    },
+    "contact": {
+        "phone": "001-704-978-5008",
+        "servicePhone": "800041841"
+    },
+    "birthday": "2021-26-02",
+    "ip": "83.237.244.159",
+    "foo": "bar",
+    "profile": {
+        "about": "Ago base ask. Stand focus teacher easy them window.\nCheck student reveal that because. Such agent exist suffer base nor. Bar television wear which.",
+        "bio": "Vote study experience sit none water though strategy. May appear wide trip.\nLead protect coach good over discuss. Network water design attention. Fill natural blood indicate prevent."
+    },
+    "currency": [
+        "KMF",
+        "Comorian franc"
+    ]
+}
