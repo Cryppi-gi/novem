@@ -1,0 +1,25 @@
+{
+    "name": "Stephen Jenkins",
+    "age": 25,
+    "address": {
+        "street": "Espinoza Radial",
+        "city": "East Vanessafurt",
+        "state": "Alabama",
+        "zip": "42450"
+    },
+    "contact": {
+        "phone": "001-275-402-0546x89450",
+        "servicePhone": "800353211"
+    },
+    "birthday": "2000-23-01",
+    "ip": "38.110.45.233",
+    "foo": "bar",
+    "profile": {
+        "about": "Project court account she.\nBack head else will white student student. Mind region about if finally get box. Majority rest occur born able remain responsibility score.",
+        "bio": "Particularly democratic company necessary court perform short. To measure everything develop. Dream in third then which cause agreement their. Far still push these."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}
