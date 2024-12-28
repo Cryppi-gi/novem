@@ -1,0 +1,25 @@
+{
+    "name": "Brittany Todd",
+    "age": 36,
+    "address": {
+        "street": "Simmons Fields",
+        "city": "Richardsstad",
+        "state": "Wyoming",
+        "zip": "41898"
+    },
+    "contact": {
+        "phone": "001-405-472-8868x131",
+        "servicePhone": "800276847"
+    },
+    "birthday": "1989-07-04",
+    "ip": "77.164.96.155",
+    "foo": "bar",
+    "profile": {
+        "about": "Officer four year pick affect company brother. Foot watch how politics court near.",
+        "bio": "Reflect like one goal. Certain drug something."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}
