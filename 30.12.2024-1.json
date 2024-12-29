@@ -1,0 +1,25 @@
+{
+    "name": "Angela Burns",
+    "age": 27,
+    "address": {
+        "street": "Espinoza Street",
+        "city": "Lake Melinda",
+        "state": "Hawaii",
+        "zip": "52593"
+    },
+    "contact": {
+        "phone": "(497)906-4832",
+        "servicePhone": "800728242"
+    },
+    "birthday": "1998-05-01",
+    "ip": "130.253.188.135",
+    "foo": "bar",
+    "profile": {
+        "about": "Approach conference career produce large writer. Study call employee main behind form.",
+        "bio": "Gun describe simple including artist. A also miss which order role. Business coach best pay medical seek.\nBut various city visit project expert. May raise concern night city expect."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}
