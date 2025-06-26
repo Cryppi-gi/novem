@@ -1,0 +1,25 @@
+{
+    "name": "Gabriella Cortez",
+    "age": 45,
+    "address": {
+        "street": "Knox Road",
+        "city": "Tylerfurt",
+        "state": "South Dakota",
+        "zip": "98664"
+    },
+    "contact": {
+        "phone": "857-841-3475x77268",
+        "servicePhone": "800455991"
+    },
+    "birthday": "1980-09-04",
+    "ip": "125.184.162.134",
+    "foo": "bar",
+    "profile": {
+        "about": "Some tree call laugh give his. Rock course send travel with. Light some middle wife.\nBag project weight campaign case southern.",
+        "bio": "Style big eye area of wear. Record great player increase against fall whole yard. War trade arrive itself interview best close. Cell picture major several for very son animal."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}
