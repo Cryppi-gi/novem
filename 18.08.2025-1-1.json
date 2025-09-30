@@ -1,0 +1,25 @@
+{
+    "name": "Julie Perez",
+    "age": 116,
+    "address": {
+        "street": "Ball Trafficway",
+        "city": "South Amyview",
+        "state": "Idaho",
+        "zip": "69533"
+    },
+    "contact": {
+        "phone": "+1-568-953-0233x52205",
+        "servicePhone": "800659265"
+    },
+    "birthday": "1909-31-10",
+    "ip": "148.127.184.71",
+    "foo": "bar",
+    "profile": {
+        "about": "Head far kitchen song. Through discuss glass officer affect once.\nGo people name. Century reach example again where drug day. Position then require identify heart much.",
+        "bio": "Until though law surface. Tax least around subject trial. Can reason through program.\nGo course tend nature. Fact television less difference require bring."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
