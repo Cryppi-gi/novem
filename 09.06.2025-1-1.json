@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Scott",
+    "age": 49,
+    "address": {
+        "street": "Charles Roads",
+        "city": "Monicaborough",
+        "state": "Kansas",
+        "zip": "97662"
+    },
+    "contact": {
+        "phone": "846.257.8114",
+        "servicePhone": "800687832"
+    },
+    "birthday": "1976-08-01",
+    "ip": "62.202.252.11",
+    "foo": "bar",
+    "profile": {
+        "about": "Follow full door crime at modern. Away walk learn law kid about low. Share music become fund program old Republican anyone. May see its number ready rest.",
+        "bio": "Thing case election partner election.\nCare size end TV.\nOut several grow shoulder. Oil any son question paper peace. Cost girl respond TV effort."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}
