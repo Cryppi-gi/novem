@@ -1,0 +1,25 @@
+{
+    "name": "Rachel Brown",
+    "age": 58,
+    "address": {
+        "street": "Wheeler Extensions",
+        "city": "Duaneton",
+        "state": "Indiana",
+        "zip": "12749"
+    },
+    "contact": {
+        "phone": "458-398-9823x010",
+        "servicePhone": "800141021"
+    },
+    "birthday": "1967-21-09",
+    "ip": "13.146.122.48",
+    "foo": "bar",
+    "profile": {
+        "about": "Man cultural discuss that happen skill matter. Consider at attack improve three add.\nDevelopment well view. Wish hotel color technology.",
+        "bio": "Most PM too wind from decade. Act almost course hotel identify bank. Task prepare which science condition activity response."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}
