@@ -1,0 +1,25 @@
+{
+    "name": "Jeffrey Haas",
+    "age": 11,
+    "address": {
+        "street": "Allen Ville",
+        "city": "Jessicaberg",
+        "state": "Louisiana",
+        "zip": "10898"
+    },
+    "contact": {
+        "phone": "001-385-303-8073x3931",
+        "servicePhone": "800052013"
+    },
+    "birthday": "2014-15-05",
+    "ip": "51.11.193.58",
+    "foo": "bar",
+    "profile": {
+        "about": "Close catch degree. Us involve war religious. People main current song lawyer wide.\nExplain animal new friend like nation run necessary. Firm whole arm page wait line.",
+        "bio": "Candidate reflect open apply. Care foot past painting. Role thousand usually yet ready thing probably."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}

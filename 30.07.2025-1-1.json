@@ -1,0 +1,25 @@
+{
+    "name": "Stephen Gray",
+    "age": 23,
+    "address": {
+        "street": "Anderson Meadow",
+        "city": "Bushfurt",
+        "state": "Maine",
+        "zip": "52396"
+    },
+    "contact": {
+        "phone": "9553252518",
+        "servicePhone": "800773923"
+    },
+    "birthday": "2002-30-06",
+    "ip": "16.249.156.30",
+    "foo": "bar",
+    "profile": {
+        "about": "Mr light usually type every east total. Wrong remain soon traditional. Let challenge actually structure.",
+        "bio": "Region finally price civil former. Hear treat mouth course view. Learn enter less stuff."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}

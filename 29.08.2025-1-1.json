@@ -1,0 +1,25 @@
+{
+    "name": "Marvin Mccarthy",
+    "age": 46,
+    "address": {
+        "street": "Richardson Place",
+        "city": "Cherylbury",
+        "state": "Virginia",
+        "zip": "52791"
+    },
+    "contact": {
+        "phone": "001-450-665-6552",
+        "servicePhone": "800184362"
+    },
+    "birthday": "1979-16-07",
+    "ip": "115.240.212.218",
+    "foo": "bar",
+    "profile": {
+        "about": "Instead reveal business lot cold growth. Culture history lawyer. Fish he a head sure.\nTrip space unit reduce light evidence. Story yet crime draw role summer wonder.",
+        "bio": "Change including recently difference plant of race cell. Right model sign before capital themselves international. Lot life day."
+    },
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}
