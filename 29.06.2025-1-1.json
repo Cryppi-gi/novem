@@ -1,0 +1,25 @@
+{
+    "name": "Stacey Diaz",
+    "age": 87,
+    "address": {
+        "street": "Baker Extensions",
+        "city": "West Angela",
+        "state": "Nevada",
+        "zip": "49135"
+    },
+    "contact": {
+        "phone": "+1-425-300-1586x57203",
+        "servicePhone": "800019286"
+    },
+    "birthday": "1938-01-05",
+    "ip": "9.76.119.186",
+    "foo": "bar",
+    "profile": {
+        "about": "Garden partner interesting bring try brother southern.\nTwo a first doctor. Company top account away source model. Court direction common my world trouble.",
+        "bio": "Church tree hope want grow surface. More seek somebody it. Enough ready deep interesting money movie. Vote effort early cut.\nPut final few out image. Sister PM arm improve job."
+    },
+    "currency": [
+        "LBP",
+        "Lebanese pound"
+    ]
+}
