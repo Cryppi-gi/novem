@@ -1,0 +1,25 @@
+{
+    "name": "Barry Rodriguez",
+    "age": 77,
+    "address": {
+        "street": "Walker Ranch",
+        "city": "South Robertshire",
+        "state": "Indiana",
+        "zip": "98736"
+    },
+    "contact": {
+        "phone": "+1-941-854-0635x0729",
+        "servicePhone": "800668433"
+    },
+    "birthday": "1948-08-03",
+    "ip": "31.209.222.204",
+    "foo": "bar",
+    "profile": {
+        "about": "Activity your offer good start course surface. Already especially growth oil.\nHowever hand newspaper discover.\nInvestment best result effort how. Avoid cup loss building process today suddenly.",
+        "bio": "House born line impact. Him rest writer traditional significant happen stage meeting.\nHerself within tonight know similar prevent left drive. Resource after station. Consumer its number."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
