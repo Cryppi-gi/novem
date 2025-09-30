@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Jenkins",
+    "age": 100,
+    "address": {
+        "street": "Lopez Glens",
+        "city": "Jennifertown",
+        "state": "Delaware",
+        "zip": "48230"
+    },
+    "contact": {
+        "phone": "641.282.0707x225",
+        "servicePhone": "800506775"
+    },
+    "birthday": "1925-14-10",
+    "ip": "123.92.188.249",
+    "foo": "bar",
+    "profile": {
+        "about": "Too front audience deep significant election far. Individual unit because performance have series. Improve hand take image nor poor likely trade.",
+        "bio": "Soldier size ability part source than. Boy this degree decade change.\nGlass shoulder theory wait. Artist become theory become evening soldier."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}

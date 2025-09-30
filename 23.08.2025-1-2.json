@@ -1,0 +1,25 @@
+{
+    "name": "Holly Noble",
+    "age": 11,
+    "address": {
+        "street": "Nathaniel Ways",
+        "city": "Burtonside",
+        "state": "Indiana",
+        "zip": "74723"
+    },
+    "contact": {
+        "phone": "+1-362-382-1293x5278",
+        "servicePhone": "800134848"
+    },
+    "birthday": "2014-19-05",
+    "ip": "131.90.103.70",
+    "foo": "bar",
+    "profile": {
+        "about": "Professional itself individual some. Think at own after statement game.\nDuring I truth cold research you. Worry approach anyone half executive college wrong. Contain always positive.",
+        "bio": "Mention still candidate himself. Me agreement trade office voice. Yard life past suffer. Tree enough bank his spring response night."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}

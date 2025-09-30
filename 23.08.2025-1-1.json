@@ -1,0 +1,25 @@
+{
+    "name": "Richard Kim",
+    "age": 61,
+    "address": {
+        "street": "Diane Inlet",
+        "city": "Jenkinsmouth",
+        "state": "Delaware",
+        "zip": "01050"
+    },
+    "contact": {
+        "phone": "7559367234",
+        "servicePhone": "800657482"
+    },
+    "birthday": "1964-28-04",
+    "ip": "205.182.156.33",
+    "foo": "bar",
+    "profile": {
+        "about": "Expect ability culture role thousand agree. Draw black boy happy dinner prepare worker. Allow parent serve magazine husband.",
+        "bio": "Tax author system. Mission social four event always building audience big."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
