@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Bryant",
+    "age": 41,
+    "address": {
+        "street": "Velazquez Centers",
+        "city": "South Aaronmouth",
+        "state": "Idaho",
+        "zip": "78708"
+    },
+    "contact": {
+        "phone": "+1-954-330-1513x09502",
+        "servicePhone": "800165639"
+    },
+    "birthday": "1984-13-08",
+    "ip": "81.237.249.35",
+    "foo": "bar",
+    "profile": {
+        "about": "Eat six admit able black adult. Write class service family lawyer own truth. Offer within night participant parent modern. Language computer beat him example.",
+        "bio": "Carry picture future teach or fish.\nHouse care talk mouth national matter. Whatever seat table ahead out. Seek will hotel investment close."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}
