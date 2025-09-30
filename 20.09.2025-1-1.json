@@ -1,0 +1,25 @@
+{
+    "name": "James Williams",
+    "age": 44,
+    "address": {
+        "street": "Michaela Crescent",
+        "city": "East Charleschester",
+        "state": "New Mexico",
+        "zip": "22443"
+    },
+    "contact": {
+        "phone": "+1-371-873-5127x7183",
+        "servicePhone": "800138804"
+    },
+    "birthday": "1981-18-08",
+    "ip": "175.184.125.28",
+    "foo": "bar",
+    "profile": {
+        "about": "White whether sell question century weight. However simple animal bar professor choice grow.\nInvestment term suddenly law dinner year well animal. World must west beautiful fire answer cultural.",
+        "bio": "South cause attention bring new dinner.\nEvery huge walk rather. Method them food citizen already stage research. Painting plant pattern. On we really collection."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}

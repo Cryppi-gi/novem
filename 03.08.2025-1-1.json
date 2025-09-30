@@ -1,0 +1,25 @@
+{
+    "name": "Benjamin Wood",
+    "age": 49,
+    "address": {
+        "street": "Martinez Coves",
+        "city": "South Nicholas",
+        "state": "Oregon",
+        "zip": "37877"
+    },
+    "contact": {
+        "phone": "407.778.8418",
+        "servicePhone": "800818586"
+    },
+    "birthday": "1976-03-12",
+    "ip": "16.188.140.94",
+    "foo": "bar",
+    "profile": {
+        "about": "Phone standard style college small consider night. Away want speak a window Republican cold. Subject player paper crime along.\nTry far difference always hot.",
+        "bio": "Move mouth bit technology loss blue behavior fall. Congress out popular close majority everybody himself. Environmental individual fund especially now."
+    },
+    "currency": [
+        "EUR",
+        "Euro"
+    ]
+}
