@@ -1,0 +1,25 @@
+{
+    "name": "Kyle Duran",
+    "age": 59,
+    "address": {
+        "street": "Mills Terrace",
+        "city": "Lake Christopher",
+        "state": "West Virginia",
+        "zip": "11836"
+    },
+    "contact": {
+        "phone": "001-442-632-9285x1142",
+        "servicePhone": "800875763"
+    },
+    "birthday": "1966-10-09",
+    "ip": "83.188.39.196",
+    "foo": "bar",
+    "profile": {
+        "about": "Technology trial try music. It building positive south kind choice. Democrat of stuff among stage team data.\nIdentify investment economy provide. Eight range end.",
+        "bio": "Personal again society. Conference allow nature reflect new. Relate fear ago author structure have."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
